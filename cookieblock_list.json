@@ -1,0 +1,338 @@
+{
+  "domain_match": {
+    "natwest.com": {
+      "LPVID": 3,
+      "LPSID-39893241": 3,
+      "s_ecid": 3
+    },
+    "homedepot.com": {
+      "_ga": 3,
+      "_gid": 3,
+      "ajs_anonymous_id": 3,
+      "_meta_metarouter_timezone_offset": 3
+    },
+    "okezone.com": {
+      "__asc": 3,
+      "__auc": 3,
+      "_ga": 3,
+      "_gid": 3,
+      "__gads": 3
+    },
+    "u.gg": {
+      "_ga": 3,
+      "_gid": 3,
+      "_pubcid": 3
+    },
+    "bola.com": {
+      "_ga": 3,
+      "_gid": 3,
+      "__asc": 3,
+      "__auc": 3,
+      "__gads": 3,
+      "cto_bidid": 3,
+      "cto_bundle": 3
+    },
+    "updazz.com": {
+      "__utmb": 3
+    },
+    "evite.com": {
+      "_ga": 3,
+      "_gid": 3,
+      "_hjTLDTest": 3,
+      "_uetsid": 3,
+      "_uetvid": 3,
+      "cto_tld_test": 3,
+      "_fbp": 3,
+      "cto_bundle": 3,
+      "xyz_cr_679_et_113": 3
+    },
+    "sparktraffic.com": {
+      "_ga": 3,
+      "_gid": 3,
+      "_ym_d": 3
+    },
+    "kherysuryawan.id": {
+      "_ga": 3,
+      "_gid": 3,
+      "__gads": 3
+    },
+    "gutefrage.net": {
+      "consentUUID": 3
+    },
+    "gr8people.com": {
+      "visitor_id501531": 3,
+      "visitor_id501531-hash": 3
+    },
+    "tes.com": {
+      "_hjTLDTest": 3
+    },
+    "hilton.com": {
+      "stc120204": 3,
+      "ftr_blst_1h": 3,
+      "TMS": 3
+    },
+    "cabelas.ca": {
+      "NoCookie": 3,
+      "_dycst": 3
+    },
+    "shareworks.com": {
+      "visitor_id3032": 3
+    },
+    "blogpay.co.kr": {
+      "_hjTLDTest": 3
+    },
+    "loggly.com": {
+      "_clsk": 3,
+      "ajs_user_id": 3
+    },
+    "aol.com": {
+      "_pbjs_userid_consent_data": 3,
+      "_pubcid": 3,
+      "cto_pub_test_tld": 3,
+      "cto_bundle": 3,
+      "cmp": 3
+    },
+    "clark.com": {
+      "_lc2_fpi": 3,
+      "pg_session_depth": 3,
+      "pg_beacon": 3,
+      "pg_tc": 3,
+      "_hjSessionUser_1057764": 3,
+      "_hjSession_1057764": 3
+    },
+    "increase.app": {
+      "_hjTLDTest": 3
+    },
+    "ororowear.com": {
+      "_hjTLDTest": 3,
+      "_gcl_au": 3,
+      "privy_suppress_3963623": 3
+    },
+    "box.com": {
+      "s_tslv": 3,
+      "s_dur": 3,
+      "s_nrm": 3,
+      "s_lv": 3,
+      "s_ecid": 3
+    },
+    "crowdworks.jp": {
+      "_ts_yjad": 3,
+      "_clck": 3,
+      "_clsk": 3,
+      "_im_id.1008949": 3
+    },
+    "fool.com": {
+      "_rdt_uuid": 3,
+      "permutive-session": 3,
+      "_gali": 3,
+      "__hstc": 3,
+      "hubspotutk": 3,
+      "__hssc": 3
+    },
+    "sberbank.ru": {
+      "adtech_uid": 3,
+      "_ym_uid": 3,
+      "_ga": 3,
+      "_ga_2TDLL4T53E": 3,
+      "_gaexp": 3,
+      "last_visit": 3
+    },
+    "citi.com": {
+      "_cls_s": 3,
+      "_cls_v": 3
+    },
+    "ukr.net": {
+      "_pubcid": 3,
+      "cto_pub_test_tld": 3,
+      "cto_bundle": 3
+    },
+    "yjc.news": {
+      "analytics_session_token": 3,
+      "_yngt": 3
+    },
+    "bolasport.com": {
+      "__gads": 3,
+      "cto_bundle": 3
+    },
+    "w3schools.com": {
+      "snigelCookieTest": 3
+    },
+    "mail.ru": {
+      "cto_bundle": 3
+    },
+    "hostgator.com": {
+      "_ga": 3,
+      "IRMS_la3094": 3,
+      "_omappvs": 3
+    },
+    "dmm.com": {
+      "_ga": 3,
+      "_dga": 3,
+      "_dga_gid": 3
+    },
+    "lentainform.com": {
+      "_ym_d": 3
+    },
+    "coupang.com": {
+      "cto_tld_test": 3
+    },
+    "adobe.com": {
+      "s_nr": 3,
+      "s_ecid": 3,
+      "_schn": 3,
+      "ipe_s": 3,
+      "_sctr": 3,
+      "ipe.29293.pageViewedDay": 3,
+      "ipe_29293_fov": 3,
+      "_gcl_au": 3
+    },
+    "trendyol.com": {
+      "_ym_uid": 3
+    },
+    "kompas.com": {
+      "_cb": 3,
+      "_cb_svref": 3,
+      "_ym_uid": 3,
+      "_ym_d": 3,
+      "cto_pub_test_tld": 3,
+      "cto_bundle": 3
+    },
+    "sahibinden.com": {
+      "__ssid": 3,
+      "_ga": 3
+    },
+    "mercadolibre.com": {
+      "_ml_ga": 3,
+      "_ml_ga_gid": 3
+    },
+    "brilio.net": {
+      "_ym_uid": 3,
+      "_cc_id": 3,
+      "_cc_cc": 3,
+      "_cc_aud": 3,
+      "panoramaId_expiry": 3,
+      "panoramaId": 3
+    },
+    "schoology.com": {
+      "_biz_uid": 3,
+      "_biz_sid": 3
+    },
+    "hubspot.com": {
+      "_conv_sptest": 3,
+      "_conv_r": 3,
+      "IR_PI": 3
+    },
+    "nikkei.com": {
+      "_a1_f": 3,
+      "_a1_f_____": 3
+    },
+    "hotstar.com": {
+      "_gcl_au": 3
+    },
+    "dell.com": {
+      "_cs_root-domain": 3,
+      "kppid_managed": 3,
+      "_cs_s": 3,
+      "_CT_RS_": 3,
+      "WRUIDCD20200715": 3
+    },
+    "asos.com": {
+      "_ga": 3,
+      "_ga_54TNE49WS4": 3
+    },
+    "mercadolivre.com.br": {
+      "_ml_ga": 3,
+      "_ml_ga_gid": 3,
+      "_hjSessionUser_720738": 3,
+      "_hjSession_720738": 3,
+      "_gcl_au": 3,
+      "_ga_NDJFKMJ2PD": 3
+    },
+    "pearson.com": {
+      "_li_dcdm_c": 3,
+      "_lc2_fpi": 3,
+      "visitor_id146801": 3,
+      "visitor_id146801-hash": 3
+    },
+    "quizlet.com": {
+      "__lt__cid": 3,
+      "__lt__sid": 3
+    },
+    "lilithgames.com": {
+      "_ga": 3
+    },
+    "banggood.com": {
+      "_ga": 3,
+      "lapuid": 3
+    },
+    "weaplay.com": {
+      "__gads": 3
+    },
+    "mi.com.co": {
+      "_gcl_au": 3,
+      "_ym_uid": 3
+    },
+    "owllabs.com": {
+      "__hstc": 3,
+      "hubspotutk": 3,
+      "__hssc": 3
+    },
+    "johnnylist.org": {
+      "__gads": 3
+    },
+    "silhouette-ac.com": {
+      "__gads": 3
+    },
+    "backlinkping.com": {
+      "_ga": 3,
+      "__gads": 3
+    },
+    "yamli.com": {
+      "__atuvs": 3
+    },
+    "imhindi.com": {
+      "__gads": 3
+    },
+    "fal3arda.com": {
+      "__gads": 3
+    },
+    "dheivegam.com": {
+      "__gads": 3
+    },
+    "dailygem.co": {
+      "_lc2_fpi": 3
+    },
+    "verisk.com": {
+      "nQ_cookieId": 3
+    },
+    "businessnewsplace.com": {
+      "_ga_YF0WTF57GX": 3
+    },
+    "blackstoneproducts.com": {
+      "baMet_visit": 3,
+      "_hjSessionUser_1244939": 3,
+      "BVBRANDID": 3,
+      "BVBRANDSID": 3
+    },
+    "capitalone.com": {
+      "s_ecid": 3
+    },
+    "earnbitmoon.club": {
+      "_ga": 3
+    },
+    "ssense.com": {
+      "rCookie": 3
+    },
+    "mvmt.com": {
+      "_vuid": 3,
+      "testTLD": 3,
+      "stc123966": 3,
+      "__atuvc": 3,
+      "_sctr": 3,
+      "rCookie": 3
+    },
+    "momandmore.com": {
+      "__gads": 3
+    }
+  }
+}
